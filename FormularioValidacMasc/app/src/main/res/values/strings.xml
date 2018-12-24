@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formulário Android</string>
+    <string name="text_name">Nome</string>
+    <string name="text_email">E-mail</string>
+    <string name="text_password">Senha</string>
+    <string name="text_phone">Telefone</string>
+    <string name="text_cc_number">Número</string>
+    <string name="text_cc_expiration">Data Expiração</string>
+    <string name="text_cc_sec_code">Código Segurança</string>
+    <string name="check_agreement">Concordo com os termos de serviço</string>
+    <string name="button_send">Enviar</string>
+
+    <string name="validation_error_not_empty">Este campo deve ser preenchido</string>
+    <string name="validation_error_email">Email inválido</string>
+    <string name="validation_error_phone">Telefone inválido</string>
+    <string name="validation_error_password">Informe letras, números e símbolos</string>
+    <string name="text_title_personal_info">Dados Pessoais</string>
+    <string name="text_title_credit_card_info">Dados de Pagamento</string>
+</resources>
